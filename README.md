@@ -9,7 +9,7 @@ Essa API exige que a ferramenta para rodar os arquivos no back seja o  [Node.js]
 Para ter uma cópia desse projeto basta baixar a pasta src, arquivos package-json e lock-json, depois de instalados, rodar o comando no terminal para instalar a lista de dependências e outro comando para rodar a API.
 
 ```sh
-cd MYAPI_TODO
+cd MyApiTodo
 npm install
 npm start
 ```
